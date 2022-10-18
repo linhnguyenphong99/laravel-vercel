@@ -2,8 +2,7 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "build": "yarn run build --output public",
-        "preview": "vite preview --port 8080"
+        "build": "yarn run build"
     },
     "devDependencies": {
         "axios": "^0.27",
